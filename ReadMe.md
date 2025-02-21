@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building full-stack web applications<br>🐍Experienced in Python programming with hands-on projects and problem-solving<br>🤖Skilled in using AI tools like ChatGPT to boost productivity and innovation.<br>⚙️Currently exploring Artificial Intelligence and its models to deepen my expertise.<br>💬 Ask me about web development, Python programming, or media editing<br>⚡ Fun fact: When I’m not coding, I’m experimenting with video edits or designing visuals! 🎬🎨<br><br>
+🔭 I’m currently working on building full-stack web applications<br>🐍Experienced in Python programming with hands-on projects and problem-solving<br>🤖Skilled in using AI tools like ChatGPT, Grok, Clude etc. to boost productivity and innovation.<br>⚙️Currently exploring Artificial Intelligence and its models to deepen my expertise.<br>💬 Ask me about web development, Python programming, or media editing<br>⚡ Fun fact: When I’m not coding, I’m experimenting with video edits or designing visuals! 🎬🎨<br><br>
 
 
 ## 🌐 Socials:
